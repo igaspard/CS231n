@@ -3,4 +3,5 @@ This repo practice the 2018 CS231n assignment
 
 *Gaspard Shen*
 
-1. Finish the knn part of the assignment1. 2019.02.27
+* Finish the **svm** part of the assignment1@2019.03.25
+* Finish the **knn** part of the assignment1@2019.02.27
